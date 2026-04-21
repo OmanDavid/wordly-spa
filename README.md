@@ -7,7 +7,7 @@ Users can search for any English word and instantly retrieve its definitions, ph
 
 ## Live Demo
 
-> Deploy to GitHub Pages, Netlify, or Vercel and paste your link here.
+[Live Demo](https://omandavid.github.io/wordly-spa/)
 
 ---
 
